@@ -28,7 +28,7 @@
         </configuration>
       </plugin>
       <plugin>
-        <groupid>org.apache.tomcat.maven</groupid>
+        <groupId>org.apache.tomcat.maven</groupId>
         <artifactid>tomcat7-maven-plugin</artifactid>
         <version>2.2</version>
         <configuration>
